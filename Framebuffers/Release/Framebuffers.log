@@ -5,7 +5,7 @@ c:\users\tamim\onedrive\documents\github\framebuffers\external libraries\include
 c:\users\tamim\onedrive\documents\github\framebuffers\framebuffers\program.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
   Generating code
-  2 of 2423 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+  1 of 2423 functions (<0.1%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code

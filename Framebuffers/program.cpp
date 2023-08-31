@@ -56,8 +56,8 @@ int main() {
 	Camera sceneCamera(glm::vec3(0.0f, 15.0f, 20.0f));
 
 	// Shaders
-	Shader modelShader("model.vert", "model.frag");
-	Shader framebufferShader("framebuffer.vert", "framebuffer_normal.frag");
+	Shader modelShader("shaders/model.vert", "shaders/model.frag");
+	Shader framebufferShader("shaders/framebuffer.vert", "shaders/framebuffer.frag");
 
 	// 3D Models
 	Model scene("models/space_station/Space Station Scene.obj");
