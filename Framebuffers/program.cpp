@@ -172,7 +172,5 @@ int main() {
 
 
 void framebuffer_resize_callback(GLFWwindow* window, int width, int height) {
-	window_width = width;
-	window_height = height;
 	glViewport(0, 0, width, height);
 }
