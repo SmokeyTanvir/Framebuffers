@@ -1,0 +1,6 @@
+﻿  program.cpp
+c:\users\tamim\onedrive\documents\github\framebuffers\framebuffers\model.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\tamim\onedrive\documents\github\framebuffers\external libraries\include\utility\camera.h(116): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tamim\onedrive\documents\github\framebuffers\external libraries\include\utility\camera.h(117): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\tamim\onedrive\documents\github\framebuffers\framebuffers\program.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Framebuffers.vcxproj -> C:\Users\tamim\OneDrive\Documents\GitHub\Framebuffers\Debug\Framebuffers.exe
